@@ -1,1 +1,1 @@
-A novel biclustering algorithm for analyses of transcriptomic data
+A novel biclustering algorithm for analyses of transcriptomic data. 
